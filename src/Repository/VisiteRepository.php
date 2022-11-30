@@ -53,7 +53,7 @@ class VisiteRepository extends ServiceEntityRepository
 //            ->getResult()
 //        ;
 //    }
-
+ 
 //    public function findOneBySomeField($value): ?Visite
 //    {
 //        return $this->createQueryBuilder('v')
